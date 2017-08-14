@@ -1,10 +1,10 @@
 # CodeFights - Password Strength
 
-###Determine Password Strength based on repetition_factor and password_length
+### Determine Password Strength based on repetition_factor and password_length
 
 ___
 
-> ####Algorithm to evaluate Password Strength
+> #### Algorithm to evaluate Password Strength
 
 > 1.  Calculate the number of unique characters in the password, and split them into the following groups:
 > > * lowercase English letters
@@ -28,7 +28,7 @@ ___
 
 > ____
 
-> ####Example
+> #### Example
 > For password = "**abcc73?**", the output should be 
 **passwordStrength(password) = 36.5832**.
 
